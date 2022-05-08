@@ -1,3 +1,3 @@
-# Jogo_dinossauro
+# Jogo dinossauro do google
 
-Projeto feito com html,css e js, na Digital Innovation One
+Projeto feito com html,css e js, na Digital Innovation One 
